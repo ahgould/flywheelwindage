@@ -1,4 +1,6 @@
 # flywheelwindage
+<img alt="Static Badge" src="https://img.shields.io/badge/Language-Python-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/github-ahgould/flywheelwindage-orange?logo=github">
+
 
 This repository includes code for the simulation of windage loss in flywheel energy storage (FES) systems, optimization of design parameters based on those simulations, and associated data visualization. This was produced as part of an undergraduate thesis project at the University of Vermont.
 
